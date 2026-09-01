@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1945" height="809" alt="my baner" src="https://github.com/user-attachments/assets/e4893f1c-3f2a-439f-be3d-1b1093b74639" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Md Malek Miah</h1>
 <h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
 

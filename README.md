@@ -32,3 +32,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmalekmiah1704-dev&show_icons=true&locale=en&layout=compact" alt="mdmalekmiah1704-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdmalekmiah1704-dev&show_icons=true&locale=en" alt="mdmalekmiah1704-dev" /></p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app" alt="Md Malek Miah's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="98%" />
+</p>
+
